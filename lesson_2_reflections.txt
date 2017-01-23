@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It is maked some file for the configuration of the repository and the dolder chaged its configuration. In need to do it to make those files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is a state of the working directory and it is a step before make a repository. Probably one commit implies a changes in differents files. 
